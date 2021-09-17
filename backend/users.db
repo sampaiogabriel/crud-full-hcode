@@ -1,1 +1,9 @@
 {"_name":"Hcode Treinamentos","_email":"hcode@hcode.com","_password":"asdfasdfasf","_id":"0oFyGvRqH6oRW7D5"}
+{"_name":"Gabriel","_gender":"M","_birth":"","_country":"","_email":"gabriel@sampaio.com","_password":"123","_photo":"dist/img/boxed-bg.jpg","_admin":true,"_register":"2021-09-17T20:41:30.461Z","_id":"m8BuEik1VkuKIB8w"}
+{"$$deleted":true,"_id":"0oFyGvRqH6oRW7D5"}
+{"$$deleted":true,"_id":"m8BuEik1VkuKIB8w"}
+{"_name":"Gabriel Sampaio","_gender":"M","_birth":"2021-09-17","_country":"Brazil","_email":"gabriel@sampaio.com","_password":"123","_photo":"dist/img/boxed-bg.jpg","_admin":true,"_register":"2021-09-17T20:50:14.821Z","_id":"d1TizJznSH6p6oSu"}
+{"_name":"Katia Lara","_gender":"F","_birth":"2021-09-14","_country":"United States","_email":"katia@lara.com","_password":"123","_photo":"dist/img/boxed-bg.jpg","_admin":false,"_register":"2021-09-17T20:50:46.389Z","_id":"zsoFikJaFZtmGzv7"}
+{"_name":"Teste","_gender":"M","_birth":"2021-09-25","_country":"Algeria","_email":"teste@teste.com","_password":"2213","_photo":"dist/img/boxed-bg.jpg","_admin":true,"_register":"2021-09-17T20:51:01.716Z","_id":"AeelCHdCsEFpZR8A"}
+{"$$deleted":true,"_id":"AeelCHdCsEFpZR8A"}
+{"$$deleted":true,"_id":"zsoFikJaFZtmGzv7"}
