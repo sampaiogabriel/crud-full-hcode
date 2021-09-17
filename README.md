@@ -1,5 +1,10 @@
 # Gerenciamento de Usuários - Template Admin - crud-full-hcode
 
+<img src="Screenshot.png">
+
+Projeto foi desenvolvido de acordo com o curso de Javascript da <a href="https://www.hcode.com.br">HCODE</a>. Usamos o Template Admin com a opção de cadastrar usuários. Este projeto possui um Frontend separado do Backend, melhores informações abaixo.
+
+
 ## Instalação de Dependências Frontend.
 
 Instale o BOWER globalmente, através do seguinte comando: 
@@ -35,7 +40,7 @@ Para iniciar o servidor, digite:
 
 ## API Restful 
 
-API desenvolvida em Node.js para o Curso Completo de JavaScript na Udemy.com - (https://www.hcode.com.br)
+API desenvolvida em Node.js para o Curso Completo de JavaScript na Udemy.com
 
 ```
 ## Rotas
