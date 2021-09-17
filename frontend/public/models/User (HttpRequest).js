@@ -80,7 +80,7 @@ class User {
 
     static getUsersStorage() {
 
-        return Fetch.get('/users');
+        return HttpRequest.get('/users');
 
     }
 
@@ -106,11 +106,11 @@ class User {
 
             if (this.id) {
 
-                promise = Fetch.put(`/users/${this.id}`, this.toJSON());
+                promise = HttpRequest.put(`/users/${this.id}`, this.toJSON());
 
             } else {
 
-                promise = Fetch.post(`/users`, this.toJSON());
+                promise = HttpRequest.post(`/users`, this.toJSON());
 
             }
 
@@ -131,7 +131,7 @@ class User {
     }
 
     remove(){
-        return Fetch.delete(`/users/${this.id}`);
+        return HttpRequest.delete(`/users/${this.id}`);
     }
 
 }
